@@ -1,10 +1,13 @@
 {
   "name": "s3mdparse",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "read s3m attribute from s3md file.",
   "main": "reads3md.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "s3mdparse": "reads3md.js"
   },
   "repository": {
     "type": "git",
