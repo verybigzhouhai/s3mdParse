@@ -10,7 +10,15 @@ const yargs = require('yargs')
 let argv = yargs
   .usage('Usage: $0 <command> [options]')
   .help('h')
-  .alias('i', 'input')
+  .alias('h', 'help')
+  .options({
+    i: {
+      alias: 'input',
+      describe: 'input path\\scp path',
+      type: 'string',
+      demandOption: true
+    }
+  })
   .argv
 
 const filePath = argv.i
