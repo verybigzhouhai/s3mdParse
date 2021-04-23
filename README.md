@@ -1,6 +1,7 @@
 # s3mdParse
 [![License](https://img.shields.io/:license-apache-blue.svg)](https://github.com/verybigzhouhai/s3mdParse/blob/main/LICENSE)
 
+[中文说明](https://nodejs.org/en/)
 
 tools for read s3mb file content to excel
 
@@ -8,7 +9,7 @@ tools for read s3mb file content to excel
 
 ## Getting Started
 
-Install [Node.js](https://nodejs.org/en/) if you don't already have it, and then:
+Install [Node.js](https://github.com/verybigzhouhai/s3mdParse/blob/main/README_CN.md) if you don't already have it, and then:
 ```
 npm install -g s3mdparse
 ```
