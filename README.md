@@ -1,5 +1,5 @@
 # s3mdParse
-[![License](https://img.shields.io/:license-apache-blue.svg)](https://github.com/verybigzhouhai/s3mdParse/blob/main/LICENSE.md)
+[![License](https://img.shields.io/:license-apache-blue.svg)](https://github.com/verybigzhouhai/s3mdParse/blob/main/LICENSE)
 
 
 tools for read s3mb file content
@@ -10,12 +10,12 @@ tools for read s3mb file content
 
 Install [Node.js](https://nodejs.org/en/) if you don't already have it, and then:
 ```
-npm install -g s3mdParse
+npm install -g s3mdparse
 ```
 
 ### Using s3mdParse as a command-line tool:
 
-`s3mdParse -i ./sampleData`
+`s3mdparse -i ./sampleData`
 
 ### Using s3mdParse as a library:
 
