@@ -1,6 +1,6 @@
 {
   "name": "s3mdparse",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "read s3m attribute from s3md file.",
   "main": "reads3md.js",
   "scripts": {

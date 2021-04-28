@@ -5,7 +5,7 @@
 
 if can help you, star,hahaha...
 
-tools for read s3mb file content to excel
+tools for read s3md file content to excel
 
 `s3mdParse` can be used as a command-line tool or Node.js module.
 
